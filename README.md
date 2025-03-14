@@ -1,6 +1,9 @@
 👋 Hello, I'm Sarah Tahsin!
 
-I'm a passionate Data Analyst with expertise in Python, Jupyter Notebook, Excel, MySQL, Power BI, and Tableau. I enjoy turning data into actionable insights and building interactive dashboards to make data-driven decisions.
+I'm a passionate Data Analyst with expertise in Python, Jupyter Notebook, Excel, MySQL, Power BI, and Tableau. 
+I enjoy turning data into actionable insights and building interactive dashboards to make data-driven decisions.
+
+---
 
 🚀 My Skills
 
@@ -14,6 +17,8 @@ Statistical Analysis & Machine Learning
 
 Dashboard Design & Reporting
 
+---
+
 📚 My Projects
 
 📈 Interactive Executive Dashboard in Power BI
@@ -24,11 +29,15 @@ Combines customer segmentation, sales performance, order & payment insights, and
 
 Analyzing life expectancy, hospital capacity, and healthcare spending across countries.
 
+---
+
 🌱 Currently Learning
 
 Advanced Data Science techniques
 
 Building interactive web apps with Streamlit
+
+---
 
 🎯 My Goal
 
