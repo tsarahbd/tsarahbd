@@ -1,48 +1,38 @@
-👋 Hello, I'm Sarah Tahsin!
+## 👋 Hello, I'm Sarah Tahsin!
 
-I'm a passionate Data Analyst with expertise in Python, Jupyter Notebook, Excel, MySQL, Power BI, and Tableau. 
-I enjoy turning data into actionable insights and building interactive dashboards to make data-driven decisions.
+I'm a passionate Data Analyst with expertise in Python, Jupyter Notebook, Excel, MySQL, Power BI, and Tableau. I enjoy turning data into actionable insights and building interactive dashboards to make data-driven decisions.
 
----
+## 🚀 My Skills
 
-🚀 My Skills
+  ✅ Programming & Scripting: Python, SQL
 
-Programming & Scripting: Python, SQL
+  📊 Data Analysis & Visualization: Power BI, Tableau, Excel, Pandas, Matplotlib, Seaborn
 
-Data Analysis & Visualization: Power BI, Tableau, Excel, Pandas, Matplotlib, Seaborn
+  🗄️ Database Management: MySQL
 
-Database Management: MySQL
+  📈 Statistical Analysis & Machine Learning
 
-Statistical Analysis & Machine Learning
+  🖥️ Dashboard Design & Reporting
 
-Dashboard Design & Reporting
+## 📚 My Projects
 
----
+  📈 Interactive Executive Dashboard in Power BI
 
-📚 My Projects
+  - Combines customer segmentation, sales performance, order & payment insights, and product analysis.
 
-📈 Interactive Executive Dashboard in Power BI
+  🏥 Healthcare Data Analysis in Python
 
-Combines customer segmentation, sales performance, order & payment insights, and product analysis.
+  - Analyzing life expectancy, hospital capacity, and healthcare spending across countries.
 
-🏥 Healthcare Data Analysis in Python
+## 🌱 Currently Learning
 
-Analyzing life expectancy, hospital capacity, and healthcare spending across countries.
+  🧠 Advanced Data Science techniques
 
----
+  🌐 Building interactive web apps with Streamlit
 
-🌱 Currently Learning
+## 🎯 My Goal
 
-Advanced Data Science techniques
-
-Building interactive web apps with Streamlit
-
----
-
-🎯 My Goal
-
-Enhance my portfolio with impactful data-driven solutions and transition into a Data Science role.
-
+🎯 Enhance my portfolio with impactful data-driven solutions and transition into a Data Science role.
 <!--
 **tsarahbd/tsarahbd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
