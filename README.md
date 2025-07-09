@@ -14,6 +14,8 @@ I'm a passionate Data Analyst with expertise in Python, Jupyter Notebook, Excel,
 
   🖥️ Dashboard Design & Reporting
 
+  💻 Currently learning Laravel to build modern and scalable web applications using PHP. I'm working on small projects to strengthen my understanding of routes, controllers, views, and database integration.
+
 ## 📚 My Projects
 
   📈 Interactive Executive Dashboard in Power BI
